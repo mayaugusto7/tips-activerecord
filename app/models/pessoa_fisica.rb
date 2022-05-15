@@ -1,0 +1,2 @@
+class PessoaFisica < Pessoa
+end

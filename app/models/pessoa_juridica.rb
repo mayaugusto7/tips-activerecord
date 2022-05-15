@@ -1,0 +1,2 @@
+class PessoaJuridica < Pessoa
+end
